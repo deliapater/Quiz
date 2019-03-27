@@ -118,9 +118,9 @@ tyres = new ArrayList<Tyre>();
 
 8. What is/are the advantage(s) of using composition?
 
-8.1. Reuses existing code
-8.2. Design clean APIs
-8.3. Change the implementation of a class used in a composition without adapting any external clients
+8.1. Reuses existing code<br>
+8.2. Design clean APIs<br>
+8.3. Change the implementation of a class used in a composition without adapting any external clients<br>
 
 9. When an object is destroyed, what happens to all the objects it is composed of?
 
