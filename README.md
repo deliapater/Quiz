@@ -61,7 +61,7 @@ Many, as many as it needs.
 
 You can use polymorphism when you have a football team (coach, player and massage therapist) and each one has an 'action on the field' but implement in a different way.
 The coach "lead the game", the player "play the game" and the therapist "give massage to the players". In this case, you can create an Interface called 'IAction' to be implemented
-in the class Coach, Player and Massage Therapist.
+in the class Coach, Player and Massage Therapist. (ArrayList of interfaces)
 
 
 # Composition
