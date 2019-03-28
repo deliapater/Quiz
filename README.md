@@ -53,6 +53,7 @@ We can use inheritance, abstract methods (overriding) and interfaces.
 
 
 4. How many 'forms' can an object take when using polymorphism?
+
 Many, as many as it needs.
 
 
